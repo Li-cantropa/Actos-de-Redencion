@@ -1,5 +1,5 @@
 # Actos-de-Redencion
-Proyecto final de la asignatura de Producción Multimedia, del Máster en Letras Digitales de la UCM. 
+Proyecto final de la asignatura de Producción Multimedia, del Máster en Letras Digitales de la UCM, de Lidia Segura Aiza.
 
 El proyecto consiste en la elaboración de una web multimedial en la que el usuario, a través de la interacción con diversas imágenes dispuestas como una serie de marcos, puede acceder a audios y textos que narran la historia de Arthur Morgan, el personaje principal del videojuego Red Dead Redemption 2 (Rockstar) y su proceso de redención.
 
