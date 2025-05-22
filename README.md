@@ -7,4 +7,4 @@ La idea de la página y la disposición de los elementos surge, también, de la 
 
 Es importante mencionar que todas las imágenes, audios y vídeos han sido generados a través de inteligencia artificial, y que los textos son originales, a excepción de aquellos entrecomillados, que pertenecen a textos del juego. 
 
-La página ha sido elaborada a partir de Figma y con la ayuda de modelos como Claude y Cursor. El diseño se ha creado sobre Figma, y las cuestiones de programación y desarrollo de la página se han elaborado con ayuda de estas dos inteligencias artificiales anteriormente mencioandas. 
+La página ha sido elaborada a partir de Figma y con la ayuda de modelos como Claude y Cursor. El diseño se ha creado sobre Figma, y las cuestiones de programación y desarrollo de la página se han elaborado con ayuda de estas dos inteligencias artificiales anteriormente mencionadas. 
